@@ -12,6 +12,12 @@ This is my first mini-project in JavaScript! It's a simple dating app that match
 - HTML (for running in the browser)
 - No external libraries or frameworks
 
+## How to Run:
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Use Shift+Ctrl+J to open a console.
+4. Follow the prompts to enter your details and see your matches!
+
 ## What I Learned:
 - Working with JavaScript objects and arrays.
 - Validating user input.
